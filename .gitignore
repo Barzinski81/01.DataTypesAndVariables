@@ -362,3 +362,5 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /09.DaysToMinutes/09.DaysToMinutes.csproj
+/01.DataTypesAndVariables.sln
+/01.DataTypesAndVariables.sln
